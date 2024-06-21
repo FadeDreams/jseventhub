@@ -1,0 +1,24 @@
+{
+  "name": "@fadedreams7/jseventhub",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fadedreams/jseventhub"
+  },
+  "keywords": [
+    "event",
+    "emitter",
+    "event-driven",
+    "event handling",
+    "priority queue",
+    "js-priority-queue"
+  ],
+  "author": "fadedreams7",
+  "homepage": "https://github.com/fadedreams/eventhub",
+  "license": "MIT",
+  "description": "jseventhub is a JavaScript module that provides a robust event handling framework (HubEventEmitter) with prioritization (PriorityEvent), event filtering, asynchronous processing, and logging capabilities, integrating seamlessly into event-driven applications using Node.js's events module and js-priority-queue.",
+  "dependencies": {
+    "js-priority-queue": "^0.1.5"
+  }
+}
